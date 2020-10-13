@@ -5,9 +5,10 @@
     width: 100px;
     border: 2px solid black;
 }
-.tempo{
+#tempo{
     margin: auto;
     text-align: center;
+    transform: rotate(-90deg);
 }
 .lamp{
     width: 50px;
